@@ -1,0 +1,19 @@
+.pesoSign2{
+	font-size: 40px;
+	position: absolute;
+	font-family: "Lucida Handwriting", cursive;
+	text-align: center;
+	right: 320px;
+	bottom: 220px;
+}
+.commaoncontract{
+	border: none;
+	background: #ffffff00;
+	color: white;
+	font-size: 40px;
+	position: absolute;
+	font-family: "Lucida Handwriting", cursive;
+	text-align: center;
+	width: 350px;
+	bottom: 220px;
+}

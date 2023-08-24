@@ -1,0 +1,129 @@
+body{
+  height: 100%;
+  background: linear-gradient(135deg, #3498db, #3498db);
+}
+.contact{
+	position: relative;
+	min-height: 100vh;
+	padding: 50px, 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.contactForm{
+	width: 50%;
+	height: 40%;
+	padding: 40px;
+	background: #fff;
+	border-radius: 50px;
+	margin-top: 70px;
+	margin-right: 250px;
+
+}
+.contactForm .inputBox{
+	position: relative;
+	width: 100%;
+	margin-top: 10px;
+}
+.contactForm .inputBox input,
+.contactForm .inputBox textarea{
+	width: 50%;
+	padding: 5px 0;
+	font-size: 16px;
+	margin: 10px 0;
+	border: none;
+	border-bottom: 2px solid #333;
+	outline: none;
+	resize: none;
+}
+.contactForm .inputBox span{
+	position: absolute;
+	left: 0;
+	padding: 5px 0;
+	font-size: 16px;
+	margin: 10px 0;
+	pointer-events: none;
+	transition: 0.5s;
+	color: #666;
+	top: 20px;
+}
+.contactForm .inputBox input:focus ~ span,
+.contactForm .inputBox input:valid ~ span,
+.contactForm .inputBox textarea:focus ~ span,
+.contactForm .inputBox textarea:valid ~ span{
+	color: #e91e63;
+	font-size: 12px;
+	transform: translateY(-40px);
+}
+.contactForm .inputBox input[type="submit"]{
+	width: 100px;
+	background: #00bcd4;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	padding: 10px;
+	font-size: 16px;
+	margin-left: 130px;
+	border-radius: 50px;
+}
+input {
+	text-align: center;
+}
+
+#p_content1{
+	font-style: italic;
+	position: absolute;
+	top: 75px;
+	font-size: 18px;
+}
+#p_content2{
+	font-style: italic;
+	font-size: 18px;
+	position: absolute;
+	top: 125px;
+}
+#p_content3{
+	font-style: italic;
+	font-size: 18px;
+	position: absolute;
+	top: 125px;
+	left: 355px;
+}
+#p_content4{
+	font-style: italic;
+	font-size: 18px;
+	position: absolute;
+	top: 175px;
+}
+#input1{
+	position: absolute;
+	left: 120px;
+	width: 480px;
+}
+#input2{
+	position: absolute;
+	width: 35%;
+	left: 185px;
+	top: 50px;
+}
+#input3{
+	position: absolute;
+	width: 29%;
+	top: 50px;
+	left: 495px;
+}
+#input4{
+	position: absolute;
+	left: 20px;
+	width: 250px;
+	top: 100px;	
+}
+#print_btn{
+	position: absolute;
+	left: 20px;
+	top: 220px;	
+}
+.form_content{
+	margin-top: 40px;
+}

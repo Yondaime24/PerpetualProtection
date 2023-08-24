@@ -1,0 +1,44 @@
+.more-services{
+	margin-top: 600px;
+}
+.services-title{
+	position: absolute; 
+	bottom: 350px;
+	left: 400px; 
+}
+.services-title a{
+	font-size: 40px; 
+	color: #000
+}
+.services-title p{
+	color: #000; 
+}
+#toTop {
+	display: none;
+	text-decoration: none;
+	position: fixed;
+	bottom: 24px;
+	right: 3%;
+	overflow: hidden;
+	z-index: 999;
+	width: 32px;
+	height: 32px;
+	border: none;
+	text-indent: 100%;
+	background: url(../../images/move-top.png) no-repeat 0px 0px;
+}
+
+#toTopHover {
+	width: 32px;
+	height: 32px;
+	display: block;
+	overflow: hidden;
+	float: right;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter: alpha(opacity=0);
+}
+.btn:hover{
+	background-position: right;
+	color: #000;
+}

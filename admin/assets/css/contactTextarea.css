@@ -1,0 +1,11 @@
+textarea{
+	background: transparent; 
+	text-align: center; 
+	width: 450px; 
+	cursor: pointer;
+	overflow-x: hidden; 
+	overflow-y: scroll; 
+	color: blue; 
+	font-weight: 500; 
+	font-size: 18px;"
+}

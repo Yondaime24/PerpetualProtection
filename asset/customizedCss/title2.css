@@ -1,0 +1,10 @@
+#title{
+	color: #3498db;
+	pointer-events: none;
+}
+#title2{
+	position: absolute;
+	color: #2ecc71;
+	left: 105px;
+	pointer-events: none;
+}

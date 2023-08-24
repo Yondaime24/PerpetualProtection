@@ -1,0 +1,27 @@
+input{
+	border: none;
+	background: #ffffff00;
+	color: white;
+	font-size: 25px;
+	font-family: "Lucida Handwriting", cursive;
+	text-align: center;
+}
+#total{
+	color: white;
+	font-size: 25px;
+	font-family: "Lucida Handwriting", cursive;
+}
+#pContract{
+	color: white;
+	font-size: 25px;
+	font-family: "Lucida Handwriting", cursive;
+	position: absolute;
+	left: 168px;
+}
+#pBalance{
+	color: white;
+	font-size: 25px;
+	font-family: "Lucida Handwriting", cursive;
+	position: absolute;
+	left: 168px;
+}

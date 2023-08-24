@@ -1,0 +1,9 @@
+.pesosymbol{
+	font-size: 60px;
+	position: absolute;
+	font-family: "Lucida Handwriting", cursive;
+	text-align: center;
+	width: 350px;
+	right: 220px;
+	bottom: 80px;
+}

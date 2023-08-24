@@ -1,0 +1,135 @@
+.modal-body1
+{
+  position: absolute;
+  top: 45%;
+  right: 23%;
+  transform: translate(-50%,-50%);
+  width: 400px;
+  height: 350px;
+  padding: 80px 40px;
+  box-sizing: border-box;
+  background: rgba(0, 0, 0, .5);
+}
+
+.modal-body2
+             {
+                 position: absolute;
+                 top: 45%;
+                 left: 50%;
+                 transform: translate(-50%,-50%);
+                 width: 400px;
+                 height: 500px;
+                 padding: 80px 40px;
+                 box-sizing: border-box;
+                 background: rgba(0,0,0,.5);
+             }
+
+                input[id = "Lemail"], input[id = "Lpword"]{
+                   border: 0;
+                   background: none;
+                   display: block;
+                   margin: 20px auto;
+                   text-align: center;
+                   border: 2px solid #3498db;
+                   padding: 14px 10px;
+                   width: 200px;
+                   outline: none;
+                   color: white;
+                   border-radius: 24px;
+                   transition: 0.25s;
+                 }
+                  input[id = "Lemail"]:focus,input[id = "Lpword"]:focus{
+                   width: 280px;
+                   border-color: #2ecc71;
+
+                 }
+
+
+ button[id="Lbutton"] {
+  border: 0;
+  background: none;
+  display: block;
+  margin: 25px auto;
+  text-align: center;
+  border: 2px solid  #2ecc71;
+  padding: 5px 40px;
+  outline: none;
+  color:white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+ button[id="Lbutton"]:hover{
+background:  #3498db;
+}
+
+input[id = "Cname"], input[id = "Clname"]{
+   border: 0;
+   background: none;
+   display: block;
+   margin: 20px auto;
+   text-align: center;
+   border: 2px solid #3498db;
+   padding: 14px 10px;
+   width: 200px;
+   outline: none;
+   color: white;
+   border-radius: 24px;
+   transition: 0.25s;
+ }
+  input[id = "Cname"]:focus,input[id = "Clname"]:focus{
+   width: 280px;
+   border-color: #2ecc71;
+
+ }
+
+ input[id = "Cmname"], input[id = "Cemail"], input[id = "Cpword"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+  }
+   input[id = "Cmname"]:focus,input[id = "Cemail"]:focus,input[id = "Cpword"]:focus{
+    width: 280px;
+    border-color: #2ecc71;
+
+  }
+
+  input[id="Cbutton"] {
+   border: 0;
+   background: none;
+   display: block;
+   margin: 25px auto;
+   text-align: center;
+   border: 2px solid  #2ecc71;
+   padding: 5px 40px;
+   outline: none;
+   color:white;
+   border-radius: 24px;
+   transition: 0.25s;
+   cursor: pointer;
+ }
+  input[id="Cbutton"]:hover{
+ background:  #3498db;
+ }
+
+ #profileDisplay{
+  display: block;
+  width: 50%;
+  margin: 10px auto;
+  border-radius: 50%;
+ }
+ .form-div{
+  margin-top: 50px;
+  border: 1px solid #e0e0e0;
+  padding-top: 15px;
+  width: 500px;
+ }

@@ -1,0 +1,23 @@
+a{
+  display: block;
+  text-decoration: none;
+  color: #3498db;
+  font-size: 1rem;
+  transition: .3s;
+}
+
+a:hover{
+  color: #38d39f;
+}
+#trash{
+  display: block;
+  text-decoration: none;
+  color: #3498db;
+  font-size: 1rem;
+  transition: .3s;
+}
+
+#trash:hover{
+  color: red;
+}
+

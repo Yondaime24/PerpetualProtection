@@ -1,0 +1,44 @@
+#label {
+	display: block;
+	text-align: left;
+	margin-bottom: 5px;
+}
+#bage1 {
+	height: 45px;
+	width: 270px;
+	padding: 5px 10px;
+	background: white;
+	margin-bottom: 12px;
+	font-size: 16px;
+	border-radius: 5px;
+	border-color: #3498db;
+	cursor: pointer;
+}
+#bage2 {
+	height: 45px;
+	width: 270px;
+	padding: 5px 10px;
+	background: white;
+	margin-bottom: 12px;
+	font-size: 16px;
+	border-radius: 5px;
+	border-color: #3498db;
+	cursor: pointer;
+}
+
+#bage3 {
+	height: 45px;
+	width: 270px;
+	padding: 5px 10px;
+	background: white;
+	margin-bottom: 12px;
+	font-size: 16px;
+	border-radius: 5px;
+	border-color: #3498db;
+	cursor: pointer;
+}
+
+
+.container{
+	height: 531px;
+}

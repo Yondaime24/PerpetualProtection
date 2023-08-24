@@ -1,0 +1,10 @@
+#eyeSpan{
+	position: absolute;
+	right: 540px;
+	top: 240px;
+	transform: translate(0,-50%);
+	cursor: pointer;
+}
+.fas{
+	color: #3498db;
+}

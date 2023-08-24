@@ -1,0 +1,47 @@
+#contractPrice {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	pointer-events: none;
+	border-bottom: 2px solid black;
+}
+#balance {
+	border: none;
+	background: #ffffff00;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	pointer-events: none;
+	margin-left: 10px;
+}
+.pesoSign{
+	position: absolute;
+	left: 379px;
+	top: 25px;
+	font-size: 50px;
+}
+.pesoSign2{
+	position: absolute;
+	left: 200px;
+	top: 19px;
+	font-size: 18px;
+}
+#finish {
+	border: none;
+	background: #ffffff00;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	pointer-events: none;
+}
+#status {
+	border: none;
+	background: #ffffff00;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	pointer-events: none;
+}
+

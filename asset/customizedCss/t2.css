@@ -1,0 +1,26 @@
+.t2{
+	font-size: 40px;
+	text-align: center;
+	/*border: 2px solid  #000;*/
+	font-family: 'Arial', cursive;
+	font-weight: 700;
+	text-shadow: 5px 5px 0px #3498db;
+	position: absolute;
+	top: 20px;
+	left: 725px;
+	top: 220px;
+}
+.t3{
+	font-size: 40px;
+	text-align: center;
+	/*border: 2px solid  #000;*/
+	font-family: 'Arial', cursive;
+	font-weight: 700;
+	text-shadow: 5px 5px 0px #2ecc71;
+	position: absolute;
+	left: 975px;
+	top: 220px;
+}
+.image{
+	margin-bottom: 70px;
+}

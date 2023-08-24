@@ -1,0 +1,116 @@
+body{
+ 
+  background: linear-gradient(135deg, #fff, #3498db);
+}
+.contact{
+	position: relative;
+	min-height: 120vh;
+	padding: 50px, 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.contactForm{
+	width: 50%;
+	height: 40%;
+	padding: 40px;
+	background: #fff;
+	border-radius: 50px;
+	margin-top: 50px;
+	margin-right: 250px;
+}
+.contactForm .inputBox{
+	position: relative;
+	width: 100%;
+	margin-top: 10px;
+}
+.contactForm .inputBox input,
+.contactForm .inputBox textarea{
+	width: 540%;
+	padding: 5px 0;
+	font-size: 16px;
+	margin: 10px 0;
+	border: none;
+	border-bottom: 2px solid #333;
+	outline: none;
+	resize: none;
+}
+input[type="submit"]{
+	width: 100px;
+	background: #00bcd4;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+	padding: 10px;
+	font-size: 16px;
+	margin-left: 130px;
+	border-radius: 50px;
+}
+input {
+	text-align: center;
+}
+.q{
+	position: absolute;
+	top: 0px;
+}
+form{
+
+}
+#p_content1{
+	font-style: italic;
+	position: absolute;
+	top: 75px;
+	font-size: 18px;
+	left: 90px;
+}
+#p_content2{
+	font-style: italic;
+	font-size: 18px;
+	position: absolute;
+	top: 125px;
+}
+#p_content3{
+	font-style: italic;
+	font-size: 18px;
+	position: absolute;
+	top: 125px;
+	left: 355px;
+}
+#p_content4{
+	font-style: italic;
+	font-size: 18px;
+	position: absolute;
+	top: 175px;
+}
+#input1{
+	position: absolute;
+	left: 180px;
+	width: 420px;
+}
+#input2{
+	position: absolute;
+	width: 35%;
+	left: 185px;
+	top: 50px;
+}
+#input3{
+	position: absolute;
+	width: 71%;
+	top: 50px;
+	left: 343px;
+}
+#input4{
+	position: absolute;
+	left: 170px;
+	width: 80px;
+	top: 100px;	
+}
+#print_btn{
+	position: absolute;
+	left: 20px;
+	top: 220px;	
+}
+.form_content{
+	margin-top: 40px;
+}

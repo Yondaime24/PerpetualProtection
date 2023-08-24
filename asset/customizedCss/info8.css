@@ -1,0 +1,27 @@
+.box{
+	margin-bottom: 15px; 
+	margin-top: 15px;
+}
+h3{
+	font-weight: 200; 
+	font-size: 18px; 
+}
+.a{
+	color: #fff;
+}
+small{
+	color: #fff;
+}
+.info1{
+	position: absolute; 
+	top: 235px; 
+	right: 500px;
+}
+.info2{
+	position: absolute; 
+	top: 235px; 
+	right: 370px;
+}
+.bio{
+	margin-top: 5px;
+}

@@ -1,0 +1,10 @@
+span{
+	position: absolute;
+	right: 15px;
+	top: 55%;
+	transform: translate(0,-50%);
+	cursor: pointer;
+}
+.fas{
+	color: #3498db;
+}

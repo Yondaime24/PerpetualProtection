@@ -1,0 +1,23 @@
+#paypal-button-container{
+   width: 300px;
+   margin-left: 330px;
+   position: absolute;
+   top: 380px;
+}
+#a{
+  
+   left: 680px;
+   position: absolute;
+   top: 220px;
+   font-size: 50px;
+   font-family: "Lucida Handwriting", cursive;
+   
+}
+#u{
+   margin-left: 332px;
+   position: absolute;
+   top: 350px;
+}
+.container{
+  height: 531px;
+}

@@ -1,0 +1,116 @@
+#label{
+	font-size: 15px;
+	margin-left: 10px;
+	margin-top: 60px;
+}
+#plan_type {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	border-bottom: 2px solid black;
+	pointer-events: none;
+	margin-left: 100px;
+	margin-top: 80px;
+}
+#label2{
+	font-size: 15px;
+	margin-left: 76px;
+	margin-top: 60px;
+}
+#payment_mode {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	border-bottom: 2px solid black;
+	pointer-events: none;
+	margin-left: 200px;
+	margin-top: 80px;
+}
+#label3{
+	font-size: 15px;
+}
+#fullname {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	pointer-events: none;
+	border-bottom: 2px solid black;
+}
+#label4{
+	font-size: 15px;
+}
+#age {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	pointer-events: none;
+	border-bottom: 2px solid black;
+	text-align: center;
+}
+#label5{
+	font-size: 15px;
+}
+#birthday {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	pointer-events: none;
+	text-align: center;
+	border-bottom: 2px solid black;
+}
+#label6{
+	font-size: 15px;
+}
+#place_of_birth {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	pointer-events: none;
+	text-align: center;
+	border-bottom: 2px solid black;
+}
+#label7{
+	font-size: 15px;
+}
+#gender {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	pointer-events: none;
+	text-align: center;
+	border-bottom: 2px solid black;
+}
+#label8{
+	font-size: 15px;
+}
+#height {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	pointer-events: none;
+	text-align: center;
+	border-bottom: 2px solid black;
+}
+#label9{
+	font-size: 15px;
+}
+#weight {
+	border: none;
+	background: #ffffff00;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	pointer-events: none;
+	text-align: center;
+	border-bottom: 2px solid black;
+}

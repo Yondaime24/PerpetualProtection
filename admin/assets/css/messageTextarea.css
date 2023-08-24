@@ -1,0 +1,10 @@
+textarea{
+	background: transparent; 
+	text-align: center; 
+	width: 600px; 
+	overflow-x: hidden; 
+	overflow-y: scroll; 
+	color: blue; 
+	font-weight: 500; 
+	font-size: 18px;"
+}

@@ -1,0 +1,16 @@
+.eye1{
+	position: absolute;
+	right: 365px;
+	top: 608px;
+	transform: translate(0,-50%);
+	cursor: pointer;
+	color: #3498db;
+}
+.eye2{
+	position: absolute;
+	right: 365px;
+	top: 693px;
+	transform: translate(0,-50%);
+	cursor: pointer;
+	color: #3498db;
+}

@@ -1,0 +1,16 @@
+.btn{
+	border-radius: 25px;
+	outline: none;
+	border: none;
+	background-color: #2ecc71;
+	border: 10px solid  #2ecc71 ;
+	color: #fff;	
+	transition: .5s;
+}
+.btn:hover{
+	background-position: right;
+	color: #3498db;
+}
+a:hover{
+	color: #fff;
+}

@@ -1,0 +1,58 @@
+#label {
+	display: block;
+	text-align: left;
+	margin-bottom: 5px;
+}
+#plan_type {
+	height: 40px;
+	width: 300px;
+	padding: 5px 10px;
+	background: white;
+	margin-bottom: 12px;
+	font-size: 16px;
+	border-radius: 5px;
+	border-color: #3498db;
+	cursor: pointer;
+}
+#gender {
+	height: 40px;
+	width: 300px;
+	padding: 5px 10px;
+	background: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border-color: #3498db;
+	cursor: pointer;
+}
+#civil_status {
+	height: 40px;
+	width: 300px;
+	padding: 5px 10px;
+	background: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border-color: #3498db;
+	cursor: pointer;
+}
+#payment_mode {
+	height: 40px;
+	width: 300px;
+	padding: 5px 10px;
+	background: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border-color: #3498db;
+	cursor: pointer;
+}
+#age {
+	height: 40px;
+	width: 300px;
+	padding: 5px 10px;
+	background: white;
+	font-size: 16px;
+	border-radius: 5px;
+	border-color: #3498db;
+	cursor: pointer;
+}
+
+

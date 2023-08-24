@@ -1,0 +1,9 @@
+.cpy-right {
+	padding: 0.1em 0;
+	background: #3498db;
+	text-align: center;
+}
+
+.cpy-right p a {
+	color: #fff;
+}

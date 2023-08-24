@@ -1,0 +1,10 @@
+   .dateFinished{
+        border: none;
+        background: transparent;
+        width: 300px;
+        position: absolute;
+        color: white;
+        font-size: 18px;
+        top: 50px;
+        text-align: center;
+      }
